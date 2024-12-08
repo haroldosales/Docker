@@ -1,1 +1,11 @@
 ## Curso de docker
+
+              Container VS VM 
+Virtual Machine                     Container 
+   APP                              App/App/App
+--------                           ------------
+   OS                              Container Engine --> é sofwate  de criar o container e orquesta == DOCKER
+-------                           -----------------
+Hypervisor                             OS
+---------                        -------------------
+Hardware                             Hardware
